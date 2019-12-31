@@ -7,5 +7,5 @@ Check your payments for a month from Nanopool in a simple python console script.
 - [x] Have Python3 installed
 - [x] clone the repo
 - [x] Edit the script for your date range and wallets
-- [x] ./payments.py
+- [x] ./payment.py
 
